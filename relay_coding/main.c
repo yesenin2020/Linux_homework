@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-	printf("my name is linfengfei."\n);
+	printf("my name is linfengfei.\n");
 	printf("Hi!\n");
 	printf("I'm  zgr.\n");
 	printf("Modify this file.!\n");
@@ -25,7 +25,7 @@ int main() {
 
 	printf("wow !!!\n");
 
-	printf("I write this in May"\n);
+	printf("I write this in May\n");
 
 	printf("Hi hi");
 
@@ -37,7 +37,7 @@ int main() {
 
 	printf("I Love C\n");
   
-	printf("The Cake is a Lie!\n")
+	printf("The Cake is a Lie!\n");
 
 	printf("\ncivilization 6 is amazing game!\n");
 	printf("please fix bugs\n");
@@ -55,6 +55,12 @@ int main() {
 	printf("Bye World!\n");
 
 	printf("I don't know ");
-	printf("So hard..");
+	printf("So hard..\n");
+
+	printf("\n그런 짓은 하지 말아야 했는데\n");
+	printf("난 그 사실을 몰랐어\n");
+	printf("이제 와서 후회한들 뭐하리\n");
+	printf("나는 바보가 돼 버린걸\n");
+
 	return 1;
 }
