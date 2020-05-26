@@ -62,5 +62,12 @@ int main() {
 	printf("이제 와서 후회한들 뭐하리\n");
 	printf("나는 바보가 돼 버린걸\n");
 
+	printf("So hard..");
+
+	printf("I'm so .....")
+
+	
+	printf("Why so serious??");
+	printf("HaHaHa..!");
 	return 1;
 }
