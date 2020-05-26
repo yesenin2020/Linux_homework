@@ -1,8 +1,9 @@
 #include <stdio.h>
 
 int main() {
+	printf("my name is linfengfei."\n);
 	printf("Hi!\n");
-	printf("2019203075\n");
+	printf("I'm  zgr.\n");
 	printf("Modify this file.!\n");
 	printf("Good Bye!\n");
 
@@ -11,7 +12,7 @@ int main() {
 
 	printf("what???\n");
 
-	printf("My name is Taeyoung-Han!\n");
+	printf("My name is zgr!\n");
 
 	for(int i = 0 ; i < 5; i++) {
 		printf("I hate COVID-19!\n");
@@ -24,7 +25,7 @@ int main() {
 
 	printf("wow !!!\n");
 
-	printf("I write this in May\n");
+	printf("I write this in May"\n);
 
 	printf("Hi hi");
 
@@ -44,6 +45,16 @@ int main() {
 	printf("Hello nice to meet you.\n");
 
 	printf("I Love C\n");
+	
+	printf("다시 하는 중~~~~~~~꺄~~~~~~~~~~~~");
 
+	printf("I want vacation\n");
+
+	printf("Hello World!\n");
+	printf("Linux\n");
+	printf("Bye World!\n");
+
+	printf("I don't know ");
+	printf("So hard..");
 	return 1;
 }
