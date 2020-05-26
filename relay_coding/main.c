@@ -1,8 +1,11 @@
 #include <stdio.h>
 
 int main() {
+	printf("my name is linfengfei.\n");
 	printf("Hi!\n");
+<<<<<<< 
 	printf("What's up buddy?\n");
+=======
 	printf("Modify this file.!\n");
 	printf("Good Bye!\n");
 
@@ -11,7 +14,7 @@ int main() {
 
 	printf("what???\n");
 
-	printf("My name is Taeyoung-Han!\n");
+	printf("My name is zgr!\n");
 
 	for(int i = 0 ; i < 5; i++) {
 		printf("I hate COVID-19!\n");
@@ -36,7 +39,7 @@ int main() {
 
 	printf("I Love C\n");
   
-	printf("The Cake is a Lie!\n")
+	printf("The Cake is a Lie!\n");
 
 	printf("\ncivilization 6 is amazing game!\n");
 	printf("please fix bugs\n");
@@ -44,6 +47,29 @@ int main() {
 	printf("Hello nice to meet you.\n");
 
 	printf("I Love C\n");
+	
+	printf("다시 하는 중~~~~~~~꺄~~~~~~~~~~~~");
 
+	printf("I want vacation\n");
+
+	printf("Hello World!\n");
+	printf("Linux\n");
+	printf("Bye World!\n");
+
+	printf("I don't know ");
+	printf("So hard..\n");
+
+	printf("\n그런 짓은 하지 말아야 했는데\n");
+	printf("난 그 사실을 몰랐어\n");
+	printf("이제 와서 후회한들 뭐하리\n");
+	printf("나는 바보가 돼 버린걸\n");
+
+	printf("So hard..");
+
+	printf("I'm so .....")
+
+	
+	printf("Why so serious??");
+	printf("HaHaHa..!");
 	return 1;
 }
