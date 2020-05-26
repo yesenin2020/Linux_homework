@@ -2,7 +2,7 @@
 
 int main() {
 	printf("Hi!\n");
-	printf("2019203075\n");
+	printf("What's up buddy?\n");
 	printf("Modify this file.!\n");
 	printf("Good Bye!\n");
 
