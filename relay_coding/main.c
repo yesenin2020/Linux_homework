@@ -56,5 +56,8 @@ int main() {
 
 	printf("I don't know ");
 	printf("So hard..");
+	
+	printf("Why so serious??");
+	printf("HaHaHa..!");
 	return 1;
 }
