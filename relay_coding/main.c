@@ -3,9 +3,7 @@
 int main() {
 	printf("my name is linfengfei.\n");
 	printf("Hi!\n");
-<<<<<<< 
 	printf("What's up buddy?\n");
-=======
 	printf("Modify this file.!\n");
 	printf("Good Bye!\n");
 
